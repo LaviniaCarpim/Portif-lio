@@ -163,5 +163,7 @@ Palestrante: Guilherme Rodrigues Mattos.
 
 ## Certificados 40 horas
 
+[AIFundamentalsLanguageandVisioninAI_Badge20261019-21-v888k7](https://raw.githubusercontent.com/Lavii0606/Portif-lio/main/AIFundamentalsLanguageandVisioninAI_Badge20261019-21-v888k7.pdf)
+
 
 

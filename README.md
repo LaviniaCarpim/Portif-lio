@@ -163,7 +163,8 @@ Palestrante: Guilherme Rodrigues Mattos.
 
 ## Certificados 40 horas
 
-[AIFundamentalsLanguageandVisioninAI_Badge20261019-21-v888k7](https://raw.githubusercontent.com/Lavii0606/Portif-lio/main/AIFundamentalsLanguageandVisioninAI_Badge20261019-21-v888k7.pdf)
+[AIFundamentalsLanguageandVisioninAI_Badge20261019-21-v888k7](https://raw.githubusercontent.com/Lavii0606/Portif-lio/main/AIFundamentalsLanguageandVisioninAI_Badge20261019-21-v888k7.png)
 
 
 
+[Jornada_Criatividade_e_Inovação](https://raw.githubusercontent.com/Lavii0606/Portif-lio/main/Jornada_Criatividade_e_Inovac%C3%A3o_[AMS_2026]___Etec_Fernando_Prestes-Certificado__Criatividade_e_Inovac%C3%A3o_4398.png)
